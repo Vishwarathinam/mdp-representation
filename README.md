@@ -40,7 +40,8 @@ R = { +10 for correctly exporting a ready product,
 -10 for exporting a faulty product}
 
 ### Graphical Representation:
-![image](1.png)
+
+![imgr](https://github.com/Vishwarathinam/mdp-representation/assets/95266350/105f6bdf-4417-49dc-811b-749398c812b9)
 
 ## PYTHON REPRESENTATION:
 ```python
